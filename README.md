@@ -1,4 +1,5 @@
 # Aula1ED.1
+## Lista1_Ativ2
 1. Criar uma aplicação em Java que tenha uma função recursiva que calcule o somatório do N primeiros
 número NATURAIS (a função deve retornar zero para números negativos)
 O Código deve apresentar, em formato de comentário, como foi definida a condição de parada;
